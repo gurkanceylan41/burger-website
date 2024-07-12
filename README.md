@@ -12,5 +12,5 @@ A modern and responsive burger website built using React and Vite.
 
 
 
-Screen Gif:
+## Screen Gif:
 ![restaurant](https://github.com/user-attachments/assets/20b35112-b439-47f2-970f-8b3903427c7a)
